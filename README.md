@@ -20,6 +20,8 @@ https://gitee.com/warriorfromlongago/xuegao-lol-skills/releases/1.0.0
 内部测试版本：
 https://gitee.com/warriorfromlongago/xuegao-lol-skills
 
+PS：如果你想打职业，或者类似靠这个吃饭，请不要使用这个。
+
 软件打开图片
 
 ![截图2020111617251](README/截图2020111617251.png)
