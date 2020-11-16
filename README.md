@@ -1,5 +1,7 @@
 # xuegao-lol-skills
 
+LOL 闪现计时
+
 国内下载地址
 https://gitee.com/warriorfromlongago/xuegao-lol-skills/releases/1.0.0
 
